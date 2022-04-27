@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whatsapp_clone/static/css/main.4f8c8171.css",
+    "main.js": "/whatsapp_clone/static/js/main.72deee3e.js",
+    "static/media/WA_Pattern2.png": "/whatsapp_clone/static/media/WA_Pattern2.bded4f44087fb4e89252.png",
+    "static/media/RockLee_Profile_Pic.png": "/whatsapp_clone/static/media/RockLee_Profile_Pic.eb04073e92db89fbdcfa.png",
+    "static/media/WA_Pattern.jpg": "/whatsapp_clone/static/media/WA_Pattern.c89c84ccc3759af1631f.jpg",
+    "static/media/ProfilePhotu.png": "/whatsapp_clone/static/media/ProfilePhotu.2f5c4a932552879061e7.png",
+    "static/media/Doremon_Profile_Pic.jpg": "/whatsapp_clone/static/media/Doremon_Profile_Pic.6464431589ef0c790fd3.jpg",
+    "static/media/naruto_Profile_Pic.jpg": "/whatsapp_clone/static/media/naruto_Profile_Pic.e5967c65abcfa63a5bfa.jpg",
+    "static/media/Hattori_Profile_Pic.jpg": "/whatsapp_clone/static/media/Hattori_Profile_Pic.6af76f43b6f612e11057.jpg",
+    "static/media/Light_Profile_Pic.jpg": "/whatsapp_clone/static/media/Light_Profile_Pic.e96698a8c405ba34f76b.jpg",
+    "static/media/Kakashi_Profile_Pic.webp": "/whatsapp_clone/static/media/Kakashi_Profile_Pic.ba5ee1e7cdc39446afa3.webp",
+    "static/media/Nobita_Profile_Pic.jpg": "/whatsapp_clone/static/media/Nobita_Profile_Pic.5159b360a535fadb149c.jpg",
+    "static/media/Sasuke_Profile_Pic.jpg": "/whatsapp_clone/static/media/Sasuke_Profile_Pic.ef9cdc14a298e714ad91.jpg",
+    "static/media/logo.svg": "/whatsapp_clone/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/whatsapp_clone/index.html",
+    "main.4f8c8171.css.map": "/whatsapp_clone/static/css/main.4f8c8171.css.map",
+    "main.72deee3e.js.map": "/whatsapp_clone/static/js/main.72deee3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f8c8171.css",
+    "static/js/main.72deee3e.js"
+  ]
+}
